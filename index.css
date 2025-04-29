@@ -2,9 +2,12 @@
 
 #calculadora {
     width: 40rem;
-    height: 70rem;
-    border: 1px solid black;
+    height: 71rem;
+    border: 1rem solid #2C475A;
+    background-color: #EACEA7;
+    border-radius: 1rem;
 
     margin: auto;
     margin-top: 10rem;
+    margin-bottom: 10rem;
 }

@@ -8,9 +8,12 @@
 }
 
 .teclas {
+    font-family:'Times New Roman', Times, serif;
     font-size: 3rem;
-    border: 1px solid gray;
-    border-radius: 3px;
+    color: #2C475A;
+
+    border: 3px solid white;
+    border-radius: 5px;
 
     display: flex;
     justify-content: center;
@@ -18,7 +21,7 @@
     cursor: pointer;
 }
 .teclas:hover{
-    background-color: greenyellow;
+    background-color: white;
 }
 
 .tecla-0 {
